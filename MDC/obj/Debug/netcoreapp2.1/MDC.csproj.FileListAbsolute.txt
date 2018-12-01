@@ -1,0 +1,11 @@
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\bin\Debug\netcoreapp2.1\MDC.deps.json
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\bin\Debug\netcoreapp2.1\MDC.runtimeconfig.json
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\bin\Debug\netcoreapp2.1\MDC.runtimeconfig.dev.json
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\bin\Debug\netcoreapp2.1\MDC.dll
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\bin\Debug\netcoreapp2.1\MDC.pdb
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\obj\Debug\netcoreapp2.1\MDC.csprojAssemblyReference.cache
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\obj\Debug\netcoreapp2.1\MDC.csproj.CoreCompileInputs.cache
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\obj\Debug\netcoreapp2.1\MDC.AssemblyInfoInputs.cache
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\obj\Debug\netcoreapp2.1\MDC.AssemblyInfo.cs
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\obj\Debug\netcoreapp2.1\MDC.dll
+C:\Users\euzeb\Google Drive\Src\MDC\MDC\obj\Debug\netcoreapp2.1\MDC.pdb
